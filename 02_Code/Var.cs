@@ -17,6 +17,7 @@ namespace Wrox
       Console.WriteLine("name is type " + nameType.ToString());
       Console.WriteLine("age is type " + ageType.ToString());
       Console.WriteLine("isRabbit is type " + isRabbitType.ToString());
+     ÄãºÃ
     }
   }
 }
